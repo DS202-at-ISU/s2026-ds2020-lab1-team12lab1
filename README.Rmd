@@ -8,7 +8,7 @@ output: github_document
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(echo = TRUE)
 ```
-"This is a line from RStudio"
+"This is a line from RStudio Test Group"
 # Lab report #1
 
 Follow the instructions posted at https://ds202-at-isu.github.io/labs.html for the lab assignment. The work is meant to be finished during the lab time, but you have time until Monday evening to polish things.
