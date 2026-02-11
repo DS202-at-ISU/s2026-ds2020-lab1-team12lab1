@@ -1,7 +1,7 @@
 [![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-22041afd0340ce965d47ae6ef1cefeee28c7c493a6346c4f15d667ab976d596c.svg)](https://classroom.github.com/a/c45zDV1M)
 
 <!-- README.md is generated from README.Rmd. Please edit the README.Rmd file -->
-
+This is a line from RStudio
 # Lab report \#1
 
 Follow the instructions posted at
