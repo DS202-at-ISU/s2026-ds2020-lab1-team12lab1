@@ -8,7 +8,7 @@ output: github_document
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(echo = TRUE)
 ```
-"This is a line from RStudio Test Group"
+- Phuoc's note: "This is a line from RStudio Test Group"
 "This is the line added by Jaren"
 # Lab report #1
 

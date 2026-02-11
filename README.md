@@ -1,7 +1,8 @@
 
 <!-- README.md is generated from README.Rmd. Please edit the README.Rmd file -->
 
-“This is a line from RStudio Test Group” \# Lab report \#1
+- Phuoc’s note: “This is a line from RStudio Test Group” “This is the
+  line added by Jaren” \# Lab report \#1
 
 Follow the instructions posted at
 <https://ds202-at-isu.github.io/labs.html> for the lab assignment. The
