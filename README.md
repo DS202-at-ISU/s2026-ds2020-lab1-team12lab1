@@ -15,6 +15,8 @@ project. 12.4:
 to restart and remake my changes after deleting the files on my device.
 12.6:
 
+-Nicolas Notes: 12.2:No problems creating the group repository. 12.3: Cloned repository but later on had trouble so had to use Gitbash to fix the cloning. 12.4: Was able to commit with no problem after troubleshooting the cloning of repository. 12.5: No problems with pushing changes to repository. 12.6: Was able to see "This is a line from RStudio" when I pushed.
+
 Follow the instructions posted at
 <https://ds202-at-isu.github.io/labs.html> for the lab assignment. The
 work is meant to be finished during the lab time, but you have time
