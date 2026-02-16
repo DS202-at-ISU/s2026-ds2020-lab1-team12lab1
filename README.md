@@ -4,6 +4,17 @@
 - Phuoc’s note: “This is a line from RStudio Test Group” “This is the
   line added by Jaren” \# Lab report \#1
 
+12.1:
+
+12.2:
+
+12.3: -Jaren’s note: uploaded the wrong link and had to restart the
+project. 12.4:
+
+12.5: Pushed multiple times without pulling which broke the file. I had
+to restart and remake my changes after deleting the files on my device.
+12.6:
+
 Follow the instructions posted at
 <https://ds202-at-isu.github.io/labs.html> for the lab assignment. The
 work is meant to be finished during the lab time, but you have time
